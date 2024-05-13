@@ -27,4 +27,4 @@ int: the base 10 value of the resulting binary
 
 
 ### Constraints
-_ 0 <= base10 <= 10^5
+ 0 <= base10 <= 10^5
